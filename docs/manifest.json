@@ -1,0 +1,10 @@
+{
+    "name": "Reagent app trial",
+    "short_name": "Reag",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "https://vaibhawc.github.io/reag/"
+  }
